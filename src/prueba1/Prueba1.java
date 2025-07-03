@@ -16,6 +16,9 @@ public class Prueba1 {
     public static void main(String[] args) {
         System.out.println("Primer commit Andrew");
         System.out.println("Segundo commit Andrew");
+        for (int i = 0; i < 10; i++ ) {
+            System.out.println(i);
+        }
 
     }
     
